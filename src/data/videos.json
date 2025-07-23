@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Title": "Efficient and Robust Learning of Human Intent",
+    "Image": "",
+    "Link": "https://www.youtube.com/embed/sPIpms0sTBQ?start=73",
+    "Conference": "",
+    "Year": "",
+    "Speaker": "Dr. Daniel Brown",
+    "StartTime": 73
+  },
+  {
+    "Id": 2,
+    "Title": "Helping Robots Learn from, Predict and Better Assist Humans",
+    "Image": "",
+    "Link": "https://www.youtube.com/embed/zTdBKSwWE4M?start=1478",
+    "Conference": "",
+    "Year": "",
+    "Speaker": "Dr. Daniel Brown",
+    "StartTime": 1478
+  },
+  {
+    "Id": 3,
+    "Title": "Latent Spaces and Learned Representation for Better Human Preference Learning",
+    "Image": "",
+    "Link": "https://www.youtube.com/embed/eOHWDgqMHq8?start=11280",
+    "Conference": "CoRL",
+    "Year": 2022,
+    "Speaker": "Dr. Daniel Brown",
+    "StartTime": 11280
+  },
+  {
+    "Id": 4,
+    "Title": "Swarm Emergent Behavior Discovery",
+    "Image": "/images/videos/4-2025Ploutos.png",
+    "Link": "https://www.ploutos.dev/streams/precious-honeybee",
+    "Conference": "Ploutos",
+    "Year": 2025,
+    "Speaker": "Dr. Daniel Brown",
+    "StartTime": ""
+  }
+]

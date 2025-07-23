@@ -1,0 +1,10 @@
+{
+  "Title": "Aligned, Robust and Interactive Autonomy Lab at the University of Utah",
+  "BannerImages": [
+    "/images/bannar/bannar.jpg",
+    "/images/bannar/MSRobotGrads.png",
+    "/images/bannar/2025AAMAS.png"
+  ],
+  "Description": "We're a group of AI researchers working on building and studying the next generation of AI systems with a focus on human-robot interaction, human-in-the-loop reinforcement learning, and AI safety and robustness.",
+  "numNews": 3
+}

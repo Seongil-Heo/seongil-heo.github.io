@@ -1,0 +1,14 @@
+{
+  "short_name": "ARIA Lab",
+  "name": "Aligned, Robust and Interactive Autonomy Lab",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "800x740"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#707271"
+}

@@ -1,0 +1,365 @@
+[
+  {
+    "Id": 1,
+    "Title": "The Effect of Modeling Human Rationality Level on Learning Rewards from Multiple Feedback Types.",
+    "Authors": [
+      "Gaurav R. Ghosal",
+      "Matthew Zurek",
+      "Daniel S. Brown",
+      "Anca D. Dragan"
+    ],
+    "Workshop": "",
+    "Conference": "AAAI Conference on Artificial Intelligence (AAAI)",
+    "Month": "February",
+    "Year": 2023,
+    "ArXiv": "https://arxiv.org/abs/2208.10687",
+    "PDF": "https://arxiv.org/pdf/2208.10687",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": "* denotes equal contribution"
+  },
+  {
+    "Id": 2,
+    "Title": "Towards a Gaze-Driven Assistive Neck Exoskeleton via Virtual Reality Data Collection",
+    "Authors": [
+      "Jordan Thompson",
+      "Haohan Zhang",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "HRI Workshop",
+    "Conference": "Virtual, Augmented, and Mixed-Reality for Human-Robot Interactions (VAM-HRI)",
+    "Month": "March",
+    "Year": 2023,
+    "ArXiv": "https://openreview.net/forum?id=6DxA9CMfvJ",
+    "PDF": "https://openreview.net/pdf?id=6DxA9CMfvJ",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 3,
+    "Title": "SIRL: Similarity-based Implicit Representation Learning",
+    "Authors": [
+      "Andreea Bobu",
+      "Yi Liu",
+      "Rohin Shah",
+      "Daniel S. Brown",
+      "Anca D. Dragan"
+    ],
+    "Workshop": "",
+    "Conference": "ACM/IEEE International Conference on Human Robot Interaction (HRI)",
+    "Month": "March",
+    "Year": 2023,
+    "ArXiv": "https://arxiv.org/abs/2301.00810",
+    "PDF": "https://arxiv.org/pdf/2301.00810",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 4,
+    "Title": "Benchmarks and Algorithms for Offline Preference-Based Reward Learning",
+    "Authors": [
+      "Daniel Shin",
+      "Anca D. Dragan",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "",
+    "Conference": "Transactions on Machine Learning Research (TMLR)",
+    "Month": "January",
+    "Year": 2023,
+    "ArXiv": "https://arxiv.org/abs/2301.01392",
+    "PDF": "https://arxiv.org/pdf/2301.01392",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 5,
+    "Title": "Causal Confusion and Reward Misidentification in Preference-Based Reward Learning",
+    "Authors": [
+      "Jeremy Tien",
+      "Jerry Zhi-Yang He",
+      "Zackory Erickson",
+      "Anca D. Dragan",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "",
+    "Conference": "International Conference on Learning Representations (ICLR)",
+    "Month": "March",
+    "Year": 2023,
+    "ArXiv": "https://arxiv.org/abs/2204.06601",
+    "PDF": "https://arxiv.org/pdf/2204.06601",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 6,
+    "Title": "Contextual Reliability: When Different Features Matter in Different Contexts",
+    "Authors": [
+      "Gaurav Ghosal",
+      "Amrith Setlur",
+      "Daniel S. Brown",
+      "Anca D. Dragan",
+      "Aditi Raghunathan"
+    ],
+    "Workshop": "",
+    "Conference": "International Conference on Machine Learning (ICML)",
+    "Month": "July",
+    "Year": 2023,
+    "ArXiv": "https://arxiv.org/abs/2307.10026",
+    "PDF": "https://arxiv.org/pdf/2307.10026",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 7,
+    "Title": "Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models",
+    "Authors": [
+      "Yi Liu*",
+      "Gaurav Datta*",
+      "Ellen Novoseller",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "",
+    "Conference": "International Conference on Robotics and Automation (ICRA)",
+    "Month": "February",
+    "Year": 2024,
+    "ArXiv": "https://arxiv.org/abs/2301.04741",
+    "PDF": "https://arxiv.org/pdf/2301.04741",
+    "Website": "https://sites.google.com/berkeley.edu/mop-rl",
+    "Code": "https://github.com/yiliu77/MB-TREX",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 8,
+    "Title": "Player-Centric Procedural Content Generation: Enhancing Runtime Customization by Integrating Real-Time Player Feedback",
+    "Authors": [
+      "Nancy N Blackburn*",
+      "M Gardone*",
+      "Daniel S Brown"
+    ],
+    "Workshop": "",
+    "Conference": "Companion Proceedings of the Annual Symposium on Computer-Human Interaction in Play (CHI PLAY)",
+    "Month": "October",
+    "Year": 2023,
+    "ArXiv": "",
+    "PDF": "https://dl.acm.org/doi/pdf/10.1145/3573382.3616069",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 9,
+    "Title": "Exploring Behavior Discovery Methods for Heterogeneous Swarms of Limited-Capability Robots",
+    "Authors": [
+      "C. Mattson",
+      "J. C. Clark",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "",
+    "Conference": "International Symposium on Multi-Robot and Multi-Agent Systems (MRS)",
+    "Month": "June",
+    "Year": 2023,
+    "ArXiv": "https://arxiv.org/pdf/2310.16941",
+    "PDF": "",
+    "Website": "https://sites.google.com/view/heterogeneous-bd-methods/home",
+    "Code": "https://github.com/Connor-Mattson/SwarmBehaviorDiscovery/tree/MRS-Submission",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 10,
+    "Title": "Leveraging Human Feedback to Evolve and Discover Novel Emergent Behaviors in Robot Swarms",
+    "Authors": [
+      "C. Mattson",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "",
+    "Conference": "Genetic and Evolutionary Computation Conference (GECCO)",
+    "Month": "July",
+    "Year": 2023,
+    "ArXiv": "https://arxiv.org/pdf/2305.16148",
+    "PDF": "",
+    "Website": "https://sites.google.com/view/evolving-novel-swarms/home",
+    "Code": "https://github.com/Connor-Mattson/SwarmBehaviorDiscovery",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 11,
+    "Title": "Quantifying Assistive Robustness Via the Natural-Adversarial Frontier",
+    "Authors": [
+      "Jerry Zhi-Yang He",
+      "Zackory Erickson",
+      "Daniel S. Brown",
+      "Anca D. Dragan"
+    ],
+    "Workshop": "",
+    "Conference": "Conference on Robot Learning (CoRL)",
+    "Month": "October",
+    "Year": 2023,
+    "ArXiv": "https://arxiv.org/abs/2310.10610",
+    "PDF": "https://arxiv.org/pdf/2310.10610",
+    "Website": "https://ood-human.github.io/",
+    "Code": "",
+    "BibTeX": "",
+    "Note": "* denotes equal contribution"
+  },
+  {
+    "Id": 12,
+    "Title": "Autonomous Assessment of Demonstration Sufficiency via Bayesian Inverse Reinforcement Learning",
+    "Authors": [
+      "Tu Trinh",
+      "Haoyu Chen",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "",
+    "Conference": "ACM/IEEE International Conference on Human Robot Interaction (HRI)",
+    "Month": "March",
+    "Year": 2024,
+    "ArXiv": "https://arxiv.org/abs/2211.15542",
+    "PDF": "https://arxiv.org/pdf/2211.15542",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 13,
+    "Title": "Modeling Kinematic Uncertainty of Tendon-Driven Continuum Robots via Mixture Density Networks",
+    "Authors": [
+      "Jordan Thompson",
+      "Brian Y. Cho",
+      "Daniel S. Brown",
+      "Alan Kuntz"
+    ],
+    "Workshop": "",
+    "Conference": "International Symposium on Medical Robotics (ISMR)",
+    "Month": "August",
+    "Year": 2024,
+    "ArXiv": "https://arxiv.org/abs/2404.04241",
+    "PDF": "https://arxiv.org/pdf/2404.04241",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 14,
+    "Title": "Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery",
+    "Authors": [
+      "Zohre Karimi*",
+      "Shing-Hei Ho*",
+      "Bao Thach",
+      "Alan Kuntz",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "",
+    "Conference": "International Symposium on Medical Robotics (ISMR)",
+    "Month": "August",
+    "Year": 2024,
+    "ArXiv": "https://arxiv.org/abs/2404.07185#",
+    "PDF": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10585785",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "test",
+    "Note": "* denotes equal contribution"
+  },
+  {
+    "Id": 15,
+    "Title": "Representation Learning for Cross-Embodiment Inverse Reinforcement Learning from Mixed-Quality Demonstrations",
+    "Authors": [
+      "Anurag Aribandi*",
+      "C. Mattson*",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "HLBRew Workshop",
+    "Conference": "Reinforcement Learning Conference (RLC)",
+    "Month": "August",
+    "Year": 2024,
+    "ArXiv": "",
+    "PDF": "",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": [
+      "* denotes equal contribution",
+      "(Recently Accepted, Links available soon)"
+    ]
+  },
+  {
+    "Id": 16,
+    "Title": "Toward Zero-Shot User Intent Recognition in Shared Autonomy",
+    "Authors": [
+      "Atharv Belsare*",
+      "Zohre Karimi*",
+      "Connor Mattson*",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "",
+    "Conference": "ACM/IEEE International Conference on Human Robot Interaction (HRI)",
+    "Month": "March",
+    "Year": 2025,
+    "ArXiv": "https://arxiv.org/abs/2501.08389",
+    "PDF": "https://arxiv.org/pdf/2501.08389",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": "* denotes equal contribution"
+  },
+  {
+    "Id": 17,
+    "Title": "Early Failure Detection in Autonomous Surgical Soft-Tissue Manipulation via Uncertainty Quantification",
+    "Authors": [
+      "Jordan Thompson",
+      "Ronald Koe",
+      "Anthony Le",
+      "Gabriella Goodman",
+      "Daniel S. Brown",
+      "Alan Kuntz"
+    ],
+    "Workshop": "OOD Workshop",
+    "Conference": "Robotics: Science and Systems (RSS)",
+    "Month": "June",
+    "Year": 2025,
+    "ArXiv": "https://arxiv.org/abs/2501.10561",
+    "PDF": "https://arxiv.org/pdf/2501.10561",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  },
+  {
+    "Id": 18,
+    "Title": "Discovery and Deployment of Emergent Robot Swarm Behaviors via Representation Learning and Real2Sim2Real Transfer",
+    "Authors": [
+      "Connor Mattson",
+      "Varun Raveendra",
+      "Ricardo Vega",
+      "Cameron Nowzari",
+      "Daniel S Drew",
+      "Daniel S. Brown"
+    ],
+    "Workshop": "",
+    "Conference": "International Conference on Autonomous Agents and Multiagent Systems (AAMAS)",
+    "Month": "May",
+    "Year": 2025,
+    "ArXiv": "https://arxiv.org/abs/2502.15937",
+    "PDF": "https://arxiv.org/pdf/2502.15937",
+    "Website": "",
+    "Code": "",
+    "BibTeX": "",
+    "Note": ""
+  }
+]

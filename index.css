@@ -1,0 +1,91 @@
+@import 'tailwindcss';
+
+@theme {
+    --color-ured: #BE0000;
+    --color-ugray: #707271;
+    --color-dgray: #424242;
+    --color-header: #DCDCDC;
+    --color-body: #F9F9F9;
+    --color-footer: #F8F9FA;
+    --color-lgray: #E8E8E8;
+    --aspect-letter: 1/1.29;
+    --text-tiny: 0.625rem;
+}
+
+@layer base {
+    h1 {
+        @apply text-2xl sm:text-4xl mb-4 md:mb-8 font-serif;
+    }
+
+    h2 {
+        @apply text-xl sm:text-3xl mb-4 md:mb-8 font-serif;
+    }
+
+    h3 {
+        @apply text-lg sm:text-2xl font-medium mb-2 md:mb-4 font-serif;
+    }
+
+    h4 {
+        @apply text-base sm:text-xl mb-1 md:mb-2;
+    }
+
+    h5 {
+        @apply text-sm sm:text-base font-semibold;
+    }
+
+    * {
+        @apply transition-all duration-300 font-sans;
+    }
+}
+
+@layer components {
+    .pages {
+        @apply mt-14 sm:mt-18 md:mt-21 lg:mt-26 py-10 px-5 sm:px-10 md:px-20 lg:px-40 2xl:px-80 flex-1 space-y-4 md:space-y-8 bg-body;
+    }
+}
+
+@layer utilities {
+    .container div+div {
+        @apply border-t border-t-ured pt-4;
+    }
+    .space-y-xs {
+        @apply space-y-2;
+    }
+
+    .space-y-sm {
+        @apply space-y-4;
+    }
+
+    .space-y-md {
+        @apply space-y-8;
+    }
+
+    .gap-xs {
+        @apply gap-2;
+    }
+
+    .gap-sm {
+        @apply gap-4;
+    }
+
+    .gap-md {
+        @apply gap-8;
+    }
+}
+
+/* Chrome, Safari, Opera */
+*::-webkit-scrollbar {
+    display: none;
+}
+
+/* IE, Edge */
+* {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+html {
+    scroll-behavior: smooth;
+}
